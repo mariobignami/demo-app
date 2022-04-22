@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# terraform files
+terraform.*
+.terraform/
+.terraform.*
+
+# IDE
+.vscode
